@@ -6,7 +6,7 @@ attrs==23.2.0
 beautifulsoup4==4.12.2
 certifi==2023.11.17
 charset-normalizer==3.3.2
-Django==5.0
+Django
 frozenlist==1.4.1
 html5lib==1.1
 idna==3.6
