@@ -134,7 +134,7 @@ MEDIA_URL = '/media/'
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-EMAIL_HOST_PASSWORD="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"
+EMAIL_HOST_PASSWORD="dybayuhmxhbowhsw"
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_FROM="ndungulilianwanjiku@gmail.com"
 EMAIL_HOST_USER="ndungulilianwanjiku@gmail.com"
